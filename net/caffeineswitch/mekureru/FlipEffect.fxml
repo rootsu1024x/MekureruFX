@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane id="pinchEffect" fx:id="flipEffect" prefHeight="40.0" prefWidth="40.0" scaleX="1.0" style="-fx-background-color:linear-gradient(to bottom right,#EEE 0%,#EEE 43%,#EEE 43%,#666 50%,#DDD 50%,#FFF 100%);" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" />
